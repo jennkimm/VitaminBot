@@ -21,6 +21,6 @@ Django 백엔드, Beautifulsoup 를 사용했고, AWS EC2 에 배포하였습니
 
 * API URL : http://ec2-13-125-221-221.ap-northeast-2.compute.amazonaws.com:8000/
 
-<img src="/image/img">
+<img src="/image/img.png">
 
 
