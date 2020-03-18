@@ -19,5 +19,8 @@ python3.7, numpy, pandas 를 사용하였으며 AWS Lambda + API Gateway 를 활
 이도 또한 AWS Lambda 를 이용해 API 를 생성하려고 했으나, webdriver 를 사용하는데 있어서 문제를 극복하지 못했습니다. AWS Lambda 에서 제공하는 파이썬 기본 라이브러리에 포함되지 않아 따로 설치해줘야 하는데, 버전호환성도 까다롭고, 배포서버(pythonanywhere) 의 보안문제가 있어,
 Django 백엔드, Beautifulsoup 를 사용했고, AWS EC2 에 배포하였습니다.
 
-* API URL : ec2-3-135-233-3.us-east-2.compute.amazonaws.com (현재 작동하지 않음)
+* API URL : http://ec2-13-125-221-221.ap-northeast-2.compute.amazonaws.com:8000/
+
+<img src="/image/img">
+
 
